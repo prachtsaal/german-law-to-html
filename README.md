@@ -6,7 +6,7 @@ A script converting German law in XML format to minimal HTML.
 
 Prachtsaal is a non-profit art cooperative registered in Germany. However, the majority of our international members
 speaks rather English then German. For this reason we need to translate relevant German law and all the documents to
-English, the law on Cooperative societies in the first place:
+English, the law on cooperative societies in the first place:
 
 https://www.gesetze-im-internet.de/geng/
 
